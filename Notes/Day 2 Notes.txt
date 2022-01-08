@@ -1,0 +1,12 @@
+Environment set
+
+1. Local (terraform - Practice)
+
+	a. AWS account (Aws related)
+	b. Terraform install local system
+	c. Cli access in local system - AWS account
+	d. VS Code Install (IDE)
+	e. Hashihorp Terraform plugin in visual studio code
+
+
+
