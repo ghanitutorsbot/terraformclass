@@ -1,0 +1,38 @@
+Infrastructure Problems
+
+1. Multiple environments setup/ time consuming more
+2. Issues - different env
+3. Scale up/down
+
+
+
+Advantages:
+
+Visibility
+Scalability
+Stability
+Security
+Audit
+
+
+Environment set
+
+1. Local (terraform - Practice)
+
+	a. AWS account (Aws related)
+	b. Terraform install local system
+	c. Cli access in local system - AWS account
+	d. VS Code Install (IDE)
+	e. Hashihorp Terraform plugin in visual studio code
+
+
+
+Terraform command basics
+
+1. terraform init
+2. terraform validate
+3. terraform plan
+4. terraform apply
+5. terraform destroy
+
+

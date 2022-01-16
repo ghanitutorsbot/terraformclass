@@ -1,0 +1,21 @@
+
+Arguments can be required or optional
+Attribues format looks like resource_type.resource_name.attribute_name
+Meta-Arguments change a resource type's behavior (Example: count, for_each)
+
+Fundamental Blocks
+
+Terraform Settings Block
+Provider Block
+Resource Block
+
+Variable Blocks
+
+Input Variables Block
+Output Values Block
+Local Values Block
+
+Calling/Reference Blocks
+
+Data Sources Block
+Modules Block

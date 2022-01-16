@@ -1,0 +1,8 @@
+
+
+
+https://learn.hashicorp.com/tutorials/terraform/resource?in=terraform/configuration-language
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance#argument-reference
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance#attributes-reference
+https://www.terraform.io/docs/language/meta-arguments/depends_on.html

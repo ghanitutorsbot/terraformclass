@@ -1,0 +1,6 @@
+  # random_pet.petname will be created
+  + resource "random_pet" "petname" {
+      + id        = (known after apply)
+      + length    = 5
+      + separator = "-"
+    }

@@ -1,0 +1,16 @@
+# Template
+<BLOCK TYPE> "<BLOCK LABEL>" "<BLOCK LABEL>"   {
+  # Block body
+  <IDENTIFIER> = <EXPRESSION> # Argument
+}
+
+resource "aws_vpc" "main" {
+  cidr_block = var.base_cidr_block
+}
+
+# AWS Example
+resource "aws_instance" "ec2demo" { # BLOCK
+  ami           = "ami-04d29b6f966df1537" # Argument
+  instance_type = var.instance_type # Argument with value as expression (Variable value replaced from varibales.tf
+}
+
